@@ -1,6 +1,7 @@
 #pragma once
 
-class Fibonacci {
+class Fibonacci 
+{
 public:
     int compute(int n);
 };
